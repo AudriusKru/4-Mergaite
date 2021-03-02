@@ -3,9 +3,10 @@
 Čia mano antrasis projektas.
 
 ## Key features:
-- pirmas
-- antras
-- trečias
+- HTML
+- CSS
+- Relative paths
+- Github pages
 
 ## Link
 
